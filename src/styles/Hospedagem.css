@@ -1,0 +1,45 @@
+.evaluation-hospedagem {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 40px;
+  margin: 20px 0;
+  border-radius: 10px;
+}
+
+
+.hospedagem-content {
+  flex: 1;
+  margin-left: 50px;
+}
+
+.hospedagem-title {
+  font-family: 'League Spartan', sans-serif;
+  font-size: 50px;
+  color: #be8f65;
+  margin-bottom: 20px;
+}
+.hospedagem-description {
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #333;
+  margin-bottom: 30px;
+  text-align: justify;
+}
+
+
+
+.hospedagem-image {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  max-width: 40%;
+}
+
+.hospedagem-image img {
+  width: 90%;
+  height: auto;
+  margin-left: 80px;
+  border-radius: 20px;
+}

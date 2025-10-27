@@ -1,0 +1,45 @@
+.gastronomia-section {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 40px;
+  min-height: 400px;
+}
+
+.gastronomia-image {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+}
+
+.gastronomia-image img {
+  max-width: 70%;
+  height: auto;
+  border-radius: 20px;
+  object-fit: cover;
+  margin-right: 100px;
+}
+
+.gastronomia-content {
+  flex: 1;
+  margin-left: 20px;
+  max-width: 50%;
+  padding-right: 30px;
+}
+
+.gastronomia-title {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  font-size: 42px;
+  margin-bottom: 20px;
+  color: #be8f65;
+}
+
+.gastronomia-text {
+  font-family: 'Roboto', sans-serif;
+  font-size: 19px;
+  color: #333;
+  font-weight: 400;
+  line-height: 25.2px;
+  text-align: justify;
+}
