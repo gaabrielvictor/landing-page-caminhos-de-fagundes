@@ -1,5 +1,5 @@
 {
-  "homepage": "http://gaabrielvictor.github.io/landing-page-impulso",
+  "homepage": " https://github.com/gaabrielvictor/landing-page-caminhos-de-fagundes",
   "name": "landing-page-impulso",
   "version": "0.1.0",
   "private": true,
@@ -17,6 +17,7 @@
     "react-router-dom": "^7.0.1",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
+    
   },
   "scripts": {
     "start": "react-scripts start",
