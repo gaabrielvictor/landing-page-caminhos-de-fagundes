@@ -2,7 +2,7 @@
 
 Bem-vindo(a)! Esta é a landing page informativa sobre turismo em Fagundes, construída com React (Create React App).  
 Versão publicada (GitHub Pages): 🚀 https://gaabrielvictor.github.io/landing-page-caminhos-de-fagundes  
-Repositório: 🔗 https://github.com/gaabrielvictor/landing-page-caminhos-de-fagundes
+Repositório: 🔗 [https://github.com/gaabrielvictor/landing-page-caminhos-de-fagundes](https://gaabrielvictor.github.io/landing-page-caminhos-de-fagundes/)
 
 ---
 
