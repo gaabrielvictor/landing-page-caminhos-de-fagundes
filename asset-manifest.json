@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/gaabrielvictor/landing-page-caminhos-de-fagundes/static/css/main.65a4d196.css",
+    "main.js": "/gaabrielvictor/landing-page-caminhos-de-fagundes/static/js/main.5fefe04c.js",
+    "static/js/453.99da2744.chunk.js": "/gaabrielvictor/landing-page-caminhos-de-fagundes/static/js/453.99da2744.chunk.js",
+    "static/media/Pedra-de-santo-antonio.png": "/gaabrielvictor/landing-page-caminhos-de-fagundes/static/media/Pedra-de-santo-antonio.307d31a434e10da63e66.png",
+    "static/media/trilha-ecologica.png": "/gaabrielvictor/landing-page-caminhos-de-fagundes/static/media/trilha-ecologica.478ab8b994be363ad093.png",
+    "static/media/cidade.png": "/gaabrielvictor/landing-page-caminhos-de-fagundes/static/media/cidade.0f33f07329587d777d59.png",
+    "static/media/festas.png": "/gaabrielvictor/landing-page-caminhos-de-fagundes/static/media/festas.0b39fca276e6651a9861.png",
+    "static/media/logo.png": "/gaabrielvictor/landing-page-caminhos-de-fagundes/static/media/logo.7b330af93d3019e91b1e.png",
+    "static/media/prefeitura.png": "/gaabrielvictor/landing-page-caminhos-de-fagundes/static/media/prefeitura.9c07adc768c8c9a1e0f5.png",
+    "static/media/hospedagem.png": "/gaabrielvictor/landing-page-caminhos-de-fagundes/static/media/hospedagem.6b38eb136f642a250146.png",
+    "static/media/gastronomia.png": "/gaabrielvictor/landing-page-caminhos-de-fagundes/static/media/gastronomia.7e79ca83af2fb14301b6.png",
+    "static/media/apple.png": "/gaabrielvictor/landing-page-caminhos-de-fagundes/static/media/apple.38f67a6ccedaf58748d0.png",
+    "static/media/google-play-badge.png": "/gaabrielvictor/landing-page-caminhos-de-fagundes/static/media/google-play-badge.42aaa19592de36aabad5.png",
+    "index.html": "/gaabrielvictor/landing-page-caminhos-de-fagundes/index.html",
+    "main.65a4d196.css.map": "/gaabrielvictor/landing-page-caminhos-de-fagundes/static/css/main.65a4d196.css.map",
+    "main.5fefe04c.js.map": "/gaabrielvictor/landing-page-caminhos-de-fagundes/static/js/main.5fefe04c.js.map",
+    "453.99da2744.chunk.js.map": "/gaabrielvictor/landing-page-caminhos-de-fagundes/static/js/453.99da2744.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65a4d196.css",
+    "static/js/main.5fefe04c.js"
+  ]
+}
